@@ -1,0 +1,61 @@
+
+/*Ipad dọc(768 x 1024)*/
+@media screen and (max-width: 768px) {
+  .ads {
+    display: none;
+  }
+  .link {
+    display: none;
+  }
+  .content {
+    width: 100%;
+  }
+  li {
+    padding: 20px;
+  }
+}
+/*Tablet nhỏ(480 x 640)*/
+@media screen and (max-width: 480px) {
+  .ads {
+    display: none;
+  }
+  .link {
+    display: none;
+  }
+  .content {
+    width: 100%;
+  }
+  li {
+    padding: 15px;
+  }
+}
+/*Iphone(480 x 640)*/
+@media screen and (max-width: 320px) {
+  .ads {
+    display: none;
+  }
+  .link {
+    display: none;
+  }
+  .content {
+    width: 100%;
+  }
+  li {
+    padding: 5px;
+  }
+}
+/*Smart phone nhỏ*/
+@media screen and (max-width: 240px) {
+  .ads {
+    display: none;
+  }
+  .link {
+    display: none;
+  }
+  .content {
+    width: 100%;
+  }
+  li {
+    padding: 5px;
+  }
+}
